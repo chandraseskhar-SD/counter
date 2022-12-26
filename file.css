@@ -1,0 +1,35 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#section{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}
+button{
+    margin: 5px;
+    font-size:150%;
+    background-color: aqua;
+    width: 5rem;
+    align-items: center;
+    border-radius: 20px;
+    border-color: aqua;
+    box-shadow: 3px;
+    
+}
+div{
+    background-color: antiquewhite;
+}
+
+h1{
+    font-size: 44px;
+    font-weight: lighter;
+    align-items: center;
+} 
+.btn3{
+    background-color:red;
+    
+}
